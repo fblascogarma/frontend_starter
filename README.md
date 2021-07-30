@@ -113,6 +113,10 @@ To create a virtual environment in Python 3 and using VS Code as your IDE, write
 
 py -3 -m venv name_of_project
 
+If that doesn't work, try
+
+python3 -m venv name_of_project
+
 Go to the folder that contains the virtual environment folder
 
 And to activate the virtual environment type
